@@ -1,4 +1,4 @@
-# SDPL-ASM
+# LabsAssembly
 
 
 Лабораторная работа 1
